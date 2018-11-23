@@ -96,6 +96,6 @@ Another limitation to the data collected is the availability of transportation t
 
 Another limitation to the data collected is access to printed materials and electronic material can be limited. For the printed material, the number of printed copies might hinder your ability to check out the title. In the case of electronic material, access to an e-reader, computer or reliable internet connection can hinder some from checking out electronic material (i.e.  e-readers, computers and reliable internet connection require the ability to pay for these objects and services).
 ### Data Analysis Method
-I plan on using Python to perform my analysis and create visualization to help communicate my findings. 
+I plan on using Python to perform a statistical analysis and create visualization to help communicate my findings. 
 ### Human Centered Design Concepts
 The data collected is on book checkout patterns by humans, and therefore human centered. Another human centered design concept is that the results of this could be used to change the availability of certain resources to the public. The affects of this analysis have the potential to change the inventory of titles available electronically or in printed formats to the various branch locations. This could result in increased or decreases to access to certain material.
